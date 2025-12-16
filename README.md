@@ -2,65 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Battery Monitoring System</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body {
-      font-family: Arial, Helvetica, sans-serif;
-      background-color: #f4f6f8;
-      margin: 0;
-      padding: 0;
-      line-height: 1.6;
-    }
-
-    header {
-      background: #1f2933;
-      color: #ffffff;
-      padding: 20px;
-      text-align: center;
-    }
-
-    section {
-      max-width: 900px;
-      margin: auto;
-      background: #ffffff;
-      padding: 20px;
-    }
-
-    h1, h2, h3 {
-      color: #1f2933;
-    }
-
-    code, pre {
-      background: #f0f0f0;
-      padding: 10px;
-      display: block;
-      overflow-x: auto;
-      border-radius: 5px;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin: 15px 0;
-    }
-
-    table, th, td {
-      border: 1px solid #cccccc;
-    }
-
-    th, td {
-      padding: 10px;
-      text-align: left;
-    }
-
-    footer {
-      text-align: center;
-      padding: 15px;
-      background: #e5e7eb;
-      margin-top: 20px;
-    }
-  </style>
+  
 </head>
 <body>
 
