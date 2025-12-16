@@ -95,7 +95,6 @@ void loop() {
 
   <h2>🚀 Future Improvements</h2>
   <ul>
-    <li>OLED display</li>
     <li>Web dashboard</li>
     <li>Data logging</li>
     <li>Low battery alert</li>
